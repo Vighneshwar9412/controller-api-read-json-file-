@@ -1,0 +1,28 @@
+[
+
+  {
+    "Id": 1,
+    "Name": "Amit Gupta",
+    "City": "Noida",
+    "IsActive": true
+  },
+  {
+    "Id": 2,
+    "Name": "Samaira Goel",
+    "City": "Delhi",
+    "IsActive": true
+  },
+  {
+    "Id": 3,
+    "Name": "Rahul Dua",
+    "City": "Mumbai",
+    "IsActive": true
+  },
+  {
+    "Id": 4,
+    "Name": "Rohit Yadav",
+    "City": "Lucknow",
+    "IsActive": true
+  }
+
+]
